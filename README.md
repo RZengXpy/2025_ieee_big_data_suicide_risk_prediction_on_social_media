@@ -57,7 +57,7 @@ pip install openpyxl
 You should navigate to the project directory in your terminal window.
 
 ```bash
-cd Flash_Code
+cd Flash_Team
 ```
 
 ## Quick Prediction
