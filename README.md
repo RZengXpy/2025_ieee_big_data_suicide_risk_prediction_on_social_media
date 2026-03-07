@@ -217,3 +217,20 @@ with torch.no_grad():
 ## Disclaimer
 
 This project is for academic research purposes only. Prediction results are for reference only and cannot be the sole basis for clinical diagnosis. If suicide risk is detected, please contact professional medical institutions and psychological crisis intervention hotlines in a timely manner.
+
+## Citation
+If your work references this project/paper, please cite it as follows:
+
+### Text Citation
+Zeng, R., Chen, L. Y., Zhang, R., & Li, Y. (2025). Multi-Modal Sequential Prediction of Suicide Risk on Social Media via Feature Fusion and Ordinal Classification. In *2025 IEEE International Conference on Big Data (BigData)* (pp. 8200-8207). IEEE. DOI: [10.1109/BigData66926.2025.11402275](https://doi.org/10.1109/BigData66926.2025.11402275)
+
+### BibTeX Citation
+```bibtex
+@INPROCEEDINGS{11402275,
+  author={Zeng, Rui and Chen, LiYan and Zhang, Rui and Li, Ye},
+  booktitle={2025 IEEE International Conference on Big Data (BigData)}, 
+  title={Multi-Modal Sequential Prediction of Suicide Risk on Social Media via Feature Fusion and Ordinal Classification}, 
+  year={2025},
+  pages={8200-8207},
+  doi={10.1109/BigData66926.2025.11402275}
+}
