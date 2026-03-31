@@ -226,11 +226,11 @@ Zeng, R., Chen, L. Y., Zhang, R., & Li, Y. (2025). Multi-Modal Sequential Predic
 
 ### BibTeX Citation
 ```bibtex
-@INPROCEEDINGS{11402275,
+@inproceedings{zeng2025multi,
+  title={Multi-Modal Sequential Prediction of Suicide Risk on Social Media via Feature Fusion and Ordinal Classification},
   author={Zeng, Rui and Chen, LiYan and Zhang, Rui and Li, Ye},
-  booktitle={2025 IEEE International Conference on Big Data (BigData)}, 
-  title={Multi-Modal Sequential Prediction of Suicide Risk on Social Media via Feature Fusion and Ordinal Classification}, 
+  booktitle={2025 IEEE International Conference on Big Data (BigData)},
+  pages={8200--8207},
   year={2025},
-  pages={8200-8207},
-  doi={10.1109/BigData66926.2025.11402275}
+  organization={IEEE}
 }
